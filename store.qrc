@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sql">
+        <file alias="all_categories">sql/all_categories.sql</file>
+        <file alias="new_category">sql/new_category.sql</file>
+    </qresource>
+</RCC>
